@@ -5,3 +5,7 @@ project with funding and mentoring from Google Experts. Also, they receive a ful
 - Link to [AndroidDevChallenge](https://developer.android.com/dev-challenge) is mentioned here for further reference.
 
 ## Google Miracle
+It is a app ready-in-sync with two different wearable technology
+designed to help provide sound to deaf peaple and sustain a voice
+to dumb peaple apart from built-in library to convert language from one
+to another for more convenient communication.
