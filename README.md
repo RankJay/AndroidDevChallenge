@@ -9,3 +9,6 @@ It is a app ready-in-sync with two different wearable technology
 designed to help provide sound to deaf peaple and sustain a voice
 to dumb peaple apart from built-in library to convert language from one
 to another for more convenient communication.
+1. Hear
+2. Speak
+3. Live Language Converter
